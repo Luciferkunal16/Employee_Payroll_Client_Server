@@ -42,6 +42,18 @@
       "_salary": "300000",
       "_notes": "I work at Dunder Mifflin",
       "_startDate": "2021-10-16T00:00:00.000Z"
+    },
+    {
+      "_name": "Kunal",
+      "_profileImage": "../assets/profile-images/profile_img-2.png",
+      "_gender": "Male",
+      "_department": [
+        "Sales"
+      ],
+      "_salary": "473000",
+      "_notes": "kunal",
+      "_startDate": "2021-12-02T18:30:00.000Z",
+      "id": 4
     }
   ]
 }
